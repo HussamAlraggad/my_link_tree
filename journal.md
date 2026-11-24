@@ -1,3 +1,11 @@
+## 2026-11-24 -- Deployed
+
+- Pushed `7edafc3` to `origin/main`.
+- Enabled GitHub Pages with source `main` / root and the legacy builder; `.nojekyll` was honored. The first build completed at `2026-11-24T17:22:19Z`.
+- Live: https://hussamalraggad.github.io/my_link_tree/
+- Live verification: HTTP 200; page title, corrected “SOFTWARE ENGINEER / AI SOFTWARE” kicker, Archivo font, `color-512.avif`, and `black-256.avif` all loaded; CSS, favicon, OG image, `robots.txt`, and `sitemap.xml` all 200; the 1440x900 sheet fits exactly.
+- README now records the live URL. bd issues `my_link_tree-kd2`, `my_link_tree-c4a`, and `my_link_tree-1q2` are closed.
+
 ## 2026-11-24 -- Contact Sheet link page
 
 ### What was done

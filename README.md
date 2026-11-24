@@ -2,7 +2,7 @@
 
 A one-page contact sheet for Hussam Alraggad's public channels. Warm paper, ink, the colored character mark, and six numbered frames.
 
-**Live URL (once Pages is enabled):** https://hussamalraggad.github.io/my_link_tree/
+**Live:** https://hussamalraggad.github.io/my_link_tree/
 
 ## Stack
 
@@ -62,12 +62,14 @@ python3 -m http.server 4173
 
 Then open `http://localhost:4173/`.
 
-## Deploy
+## Deployment
 
-The site is designed for GitHub Pages from the repository root:
+The site is live on GitHub Pages from `main` / `(root)`. For future content changes, commit and push `main`; Pages rebuilds automatically.
 
-1. Commit and push `main`.
-2. In the repository, open **Settings → Pages**.
+To reproduce the setup on a new repository:
+
+1. Push `main`.
+2. Open **Settings → Pages**.
 3. Set **Source** to **Deploy from a branch**, branch `main`, folder `/ (root)`.
 4. The site publishes at `https://hussamalraggad.github.io/my_link_tree/`.
 
